@@ -1,3 +1,10 @@
+UPDATE 2024-01-15
+
+Cosign has been retired as a service at University of Michigan. There are 
+no longer any changes being made to this code. This repository is now archived.
+
+-----------------------------------------------------------------------------
+
 These instructions are for building the Apache authentication filter.
 If you need to set up an entire weblogin infrastructure please see
 README.weblogin (for sites using Kerberos) or README.basicauth for any
